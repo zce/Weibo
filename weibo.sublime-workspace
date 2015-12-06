@@ -1,0 +1,878 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"files"
+			],
+			[
+				"dat",
+				"dataTransfer"
+			],
+			[
+				"el",
+				"else	(15-drag&drop.html)"
+			],
+			[
+				"re",
+				"remove	(Note.md)"
+			],
+			[
+				"cl",
+				"classList	(Note.md)"
+			],
+			[
+				"add",
+				"addEventListener	(15-drag&drop.html)"
+			],
+			[
+				"inpu",
+				"inputFile"
+			],
+			[
+				"in",
+				"inputFile"
+			],
+			[
+				"adde",
+				"addEventListener('click	(HTML5.html)"
+			],
+			[
+				"btn_",
+				"btn_select"
+			],
+			[
+				"titl",
+				"title_1"
+			],
+			[
+				"pu",
+				"pushState"
+			],
+			[
+				"hi",
+				"history	(04-history.html)"
+			],
+			[
+				"li",
+				"liElement"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"pos",
+				"pos	position: ${1:relative};"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"ta",
+				"targetSelector"
+			],
+			[
+				"la",
+				"lastX"
+			],
+			[
+				"last",
+				"lastMoveTime"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"da",
+				"dataset"
+			],
+			[
+				"svg",
+				"svgs"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"g",
+				"gt	getElementsByTagName"
+			],
+			[
+				"me",
+				"media	(HTML5.html)"
+			],
+			[
+				"t",
+				"target"
+			],
+			[
+				"dra",
+				"dragend"
+			],
+			[
+				"req",
+				"requestFileSystem"
+			],
+			[
+				"def",
+				"default	(HTML5.html)"
+			],
+			[
+				"pr",
+				"progress"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"13",
+				"13-input-change.html"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"inner",
+				"innerHTML	(HTML5.html)"
+			],
+			[
+				"btn",
+				"btn_1"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"bt",
+				"btn_get_location"
+			],
+			[
+				"m",
+				"music.mp3"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"loc",
+				"localStorage"
+			],
+			[
+				"txt",
+				"txt_value"
+			],
+			[
+				"app",
+				"applicationCache"
+			],
+			[
+				"fu",
+				"fullScreen"
+			],
+			[
+				"lo",
+				"loadContent"
+			],
+			[
+				"click",
+				"clickItem"
+			],
+			[
+				"list",
+				"listElement"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"his",
+				"history-demo.html"
+			],
+			[
+				"c",
+				"contenteditable	Attr"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"de",
+				"demoClassList"
+			],
+			[
+				"demo",
+				"demoClassList"
+			],
+			[
+				"dem",
+				"demoElement"
+			],
+			[
+				"tit",
+				"title_1"
+			],
+			[
+				"cont",
+				"controls"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"po",
+				"pos-r	position: relative;"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"tal",
+				"ta:l	text-align:left"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"bgz",
+				"bgz	background-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"rev",
+				"reveal.js"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "pr",
+		"selected_items":
+		[
+			[
+				"pr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"start",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"ma",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"setht",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"ANF: Delete File"
+			],
+			[
+				"emoj",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"DA",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"sht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ter",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"tin",
+				"Tint: New Terminal in Tab"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"te",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"d",
+				"File: Delete"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"new fo",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"dash",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"close",
+				"Project: Close"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 239.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo"
+	],
+	"file_history":
+	[
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/2015-12-04 2/code/10-drag&drop.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/15-drag&drop.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/note/note.md",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/Note.md",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/MovieTalk/node_modules/react-native/packager/react-native-xcode.sh",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/MovieTalk/package.json",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/package.json",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/MovieTalk/.babelrc",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/bootstrap/demo/weijinsuo/index.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/bootstrap/demo/weijinsuo/js/main.js",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/bootstrap/demo/weijinsuo/css/main.css",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/bootstrap/README.md",
+		"/Users/iceStone/Documents/Repositories/Ghost/index.js",
+		"/Users/iceStone/.vimrc",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/untitled",
+		"/Users/iceStone/Desktop/install.cmd",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/10-drag&drop.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/09-file-api.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/08-web-storage.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/cache/script.js",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/cache/style.css",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/cache/cache.manifest",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/cache/index.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/07-full-screen.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/03-class-list.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/05-wuhuan.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/06-push-state.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/data.js",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/04-history.html",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/2.1.1-new-selectors.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/shake.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/html5/HTML5.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/02-iframe.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/01-data-attr.html",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/demo.md",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Snippets/eac.sublime-snippet",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/html5/demo/js-api/15-drag&drop.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/2.1.3-history-api.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/html5/demo/js-api/data.js",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/code/2.1.2-class-list.html",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Snippets/forin.sublime-snippet",
+		"/Users/iceStone/Downloads/fileapi-files/03-01/index.html",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/HTML5.html",
+		"/Users/iceStone/Desktop/Shared/start",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/README.md",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-03/html5/HTML5.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-03/code/07-svg-file.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-03/code/04-data-attributes.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-03/code/demo.svg",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-03/code/06-media.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-03/code/05-form-types.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/06-form-input.html",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Snippets/hello.sublime-snippet",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-03/code/03-itemprop.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-03/code/04-label.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/01-semantic-tags.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-03/code/02-link-rel.html",
+		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-03/code/02-appliction-tags.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/02-application-tags.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/markdown/index.html",
+		"/Volumes/Windows/WorkSpace/Projects/rating/src/node_modules/electron-prebuilt/dist/resources/default_app/index.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/reveal/css/theme/source/itcast.scss",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/14-file-reader.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/14-file-system-api.html",
+		"/Users/iceStone/Downloads/filesystem-files/04-03/script.js",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5-bak/2/demo/04-文件API.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/13-input-change.html",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Snippets/sw.sublime-snippet",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/13-file-api.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/13-input-style.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/13-file-list.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/12-geolocation.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/09-device-motion.html",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Snippets/if.sublime-snippet",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Snippets/ife.sublime-snippet",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/09-shake.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/shake/index.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/09-device-orientation.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/09-screen-orientation.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demoNode/public/website/JSAPI/JSAPI1.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/10-device-light.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/11-user-proximity.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/07-network-status.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/08-battery-status.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/note/note.manifest",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/07-battery-status.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/04-fullscreen-api.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/note/index.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/06-web-storage.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/05-application-cache.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/cache.manifest",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/cache.css",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/cache.js",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/temp.js",
+		"/Users/iceStone/hydra.txt",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/02-element-classlist.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/03-history-api.html",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Snippets/qs.sublime-snippet",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/data.js",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/history-demo.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/01-new-selectors.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/10-svg.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/svg_tiger.svg",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/09-media-track.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/video-subtitles-cn.vtt",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5-bak/2/demo/02-多媒体.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/08-media-video.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/07-media-audio.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/05-new-form-types.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/03-aria-attributes.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/04-data-attributes.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/reveal/css/theme/itcast.css",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/style.css",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/progress-bar/index.html",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/reveal/plugin/notes/notes.js",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/reveal/lib/css/bootstrap.min.css",
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/HTML5-汪磊.html",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Tint.sublime-settings",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Terminality.sublime-settings"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    ",
+			"   ",
+			"1.5",
+			"localStorage",
+			"document.body",
+			"requestFullScreen",
+			"http://v3.bootcss.com/components/#",
+			"新闻",
+			"acceleration",
+			"' +",
+			"2:dict",
+			"1:key",
+			"var",
+			"div",
+			"nav",
+			"container",
+			"地理围栏",
+			"IndexedDB",
+			"2",
+			"false",
+			"桌面拖入",
+			"Vide",
+			"vide",
+			"audio",
+			"btn",
+			"下一页",
+			"p",
+			"input.files",
+			".",
+			", false",
+			"event",
+			"errorHandler",
+			"danger",
+			"pre",
+			"input_file",
+			"h1",
+			"pre",
+			"pRe",
+			"pre",
+			"h1",
+			"hide",
+			"show",
+			"$",
+			"p",
+			"ev",
+			"{}",
+			"document.write",
+			"console.log",
+			"id",
+			"function",
+			"element",
+			"phonegap.js",
+			"更语义化的标签",
+			"多线程",
+			"7",
+			"文件系统",
+			"文件",
+			"拖放操作",
+			"设备信息访问",
+			"2.1",
+			"网页存储",
+			"h3",
+			"h4",
+			"h3",
+			"全屏API",
+			"document.documentElement",
+			"body",
+			"parent",
+			"document",
+			"python",
+			"document",
+			"link",
+			"访问历史",
+			">",
+			"<",
+			"h3",
+			"通过CSS语法查找元素",
+			"var els = ",
+			"h3",
+			"p",
+			" target=\"_blank\"",
+			"en",
+			">",
+			"<",
+			"audio",
+			"<",
+			"19",
+			"tel",
+			">",
+			"<",
+			"\">",
+			" /",
+			"el",
+			">",
+			"<",
+			"\n<",
+			"ul",
+			"自定义属性",
+			"<b>li</b>",
+			">",
+			"\">\n",
+			"<",
+			"。",
+			"</td><td></td><td>",
+			"</td><td></td><td></td><td>",
+			"</td><td></td><td>",
+			" ",
+			"/&gt;",
+			"&lg;",
+			">",
+			"<",
+			"h3",
+			".html5-progress-bar progress",
+			"div",
+			"<b>|</b>",
+			" class=\"fragment\"",
+			"sessionStorage",
+			"Canvas",
+			"h4",
+			"智能表单",
+			" class=\"fragment\"",
+			"label label",
+			"\"label",
+			"p",
+			"\"label",
+			"positive",
+			"assertive",
+			"calm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&gt;",
+			"&lt;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "weibo.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"react-native",
+				"node_modules/react-native/packager/react-native-xcode.sh"
+			],
+			[
+				"itc",
+				"html5/reveal/css/theme/source/itcast.scss"
+			],
+			[
+				"html",
+				"html5/HTML5.html"
+			],
+			[
+				"s",
+				"reveal/css/theme/sky.css"
+			],
+			[
+				"sy",
+				"reveal/css/theme/sky.css"
+			],
+			[
+				".",
+				"web/.bower.json"
+			],
+			[
+				"bow",
+				"~/Documents/WorkSpace/Itcast/ppt/web/bower.json"
+			],
+			[
+				"b",
+				"web/bower.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
