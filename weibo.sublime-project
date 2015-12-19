@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/Users/iceStone/Documents/WorkSpace/Code/App/react/MovieTalk"
 		}
 	]
 }

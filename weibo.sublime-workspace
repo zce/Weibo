@@ -4,6 +4,74 @@
 		"selected_items":
 		[
 			[
+				"index",
+				"indexPic2X	(Images.js)"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"Im",
+				"Images"
+			],
+			[
+				"e",
+				"export	(App.js)"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"sty",
+				"styles"
+			],
+			[
+				"rc",
+				"rcc	React: component skeleton"
+			],
+			[
+				"Na",
+				"NavigatorIOS"
+			],
+			[
+				"li",
+				"Libraries/"
+			],
+			[
+				"rea",
+				"react-native/"
+			],
+			[
+				"node",
+				"node_modules/"
+			],
+			[
+				"Sty",
+				"StyleSheetRegistry"
+			],
+			[
+				"bac",
+				"backgroundColor"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"A",
+				"App.jsx"
+			],
+			[
+				"Co",
+				"Components/"
+			],
+			[
+				"app",
+				"app/"
+			],
+			[
 				"fi",
 				"files"
 			],
@@ -54,10 +122,6 @@
 			[
 				"hi",
 				"history	(04-history.html)"
-			],
-			[
-				"li",
-				"liElement"
 			],
 			[
 				"he",
@@ -132,10 +196,6 @@
 				"progress"
 			],
 			[
-				"co",
-				"counter"
-			],
-			[
 				"13",
 				"13-input-change.html"
 			],
@@ -186,10 +246,6 @@
 			[
 				"txt",
 				"txt_value"
-			],
-			[
-				"app",
-				"applicationCache"
 			],
 			[
 				"fu",
@@ -296,9 +352,53 @@
 	"command_palette":
 	{
 		"height": 375.0,
-		"last_filter": "pr",
+		"last_filter": "in",
 		"selected_items":
 		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"File: Reveal"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"react na",
+				"Snippet: React Component Class"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
 			[
 				"pr",
 				"Markdown Preview: Preview in Browser"
@@ -312,24 +412,12 @@
 				"Project: Close"
 			],
 			[
-				"in",
-				"Package Control: Install Package"
-			],
-			[
 				"insta",
 				"Package Control: Install Package"
 			],
 			[
-				"en",
-				"Package Control: Enable Package"
-			],
-			[
 				":w",
 				":w - Save"
-			],
-			[
-				"list",
-				"Package Control: List Packages"
 			],
 			[
 				"markdown",
@@ -342,10 +430,6 @@
 			[
 				"prev",
 				"Markdown Preview: Preview in Browser"
-			],
-			[
-				"dis",
-				"Package Control: Disable Package"
 			],
 			[
 				"start",
@@ -372,10 +456,6 @@
 				"Set Syntax: JavaScript (Babel)"
 			],
 			[
-				"re",
-				"File: Rename"
-			],
-			[
 				"setht",
 				"Set Syntax: HTML"
 			],
@@ -398,10 +478,6 @@
 			[
 				"sht",
 				"Set Syntax: HTML"
-			],
-			[
-				"ter",
-				"Terminality: Browse Commands..."
 			],
 			[
 				"enab",
@@ -460,21 +536,52 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo"
 	],
 	"file_history":
 	[
+		"/Users/iceStone/Documents/Profiles/个人简介-2015-12-07.md",
+		"/Users/iceStone/Documents/Profiles/README.md",
+		"/Users/iceStone/Documents/Creative Cloud Files/Icon",
+		"/etc/hosts",
+		"/Users/iceStone/Documents/Shells/electron/index.html",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/app/Resources/Images.js",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/app/App.js",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/app/Components/Welcome.js",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/ios/Weibo/Images.xcassets/Contents.json",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/index.ios.js",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/README.md",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/node_modules/react-haste/renderers/shared/reconciler/instantiateReactComponent.js",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/node_modules/react-native/Libraries/react-native/react-native.js",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/node_modules/react-native/Libraries/StyleSheet/StyleSheet.js",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/node_modules/react-native/Libraries/StyleSheet/StyleSheetRegistry.js",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/node_modules/react-haste/test/ReactPerf.js",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/iceStone/Documents/Repositories/ZhiHuDaily-React-Native/LICENSE",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/node_modules/react-haste/renderers/shared/reconciler/ReactCompositeComponent.js",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/app/App.jsx",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/index.android.js",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/node_modules/react-native/packager/react-native-xcode.sh",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/ios/Weibo/AppDelegate.m",
+		"/Users/iceStone/.profile",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/FileHeader.sublime-settings",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/FileHeader/FileHeader.sublime-settings",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/app/Resources/Icon.jsx",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/app/Resources/Styles.jsx",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/app/Components/ListView.jsx",
+		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/style.css",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Terminal (OSX).sublime-settings",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
 		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/2015-12-04 2/code/10-drag&drop.html",
 		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/15-drag&drop.html",
 		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/note/note.md",
-		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
 		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/Note.md",
 		"/Users/iceStone/Documents/WorkSpace/Code/App/react/MovieTalk/node_modules/react-native/packager/react-native-xcode.sh",
 		"/Users/iceStone/Documents/WorkSpace/Code/App/react/MovieTalk/package.json",
 		"/Users/iceStone/Documents/WorkSpace/Code/App/react/Weibo/package.json",
 		"/Users/iceStone/Documents/WorkSpace/Code/App/react/MovieTalk/.babelrc",
-		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
 		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/bootstrap/demo/weijinsuo/index.html",
 		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/bootstrap/demo/weijinsuo/js/main.js",
 		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/bootstrap/demo/weijinsuo/css/main.css",
@@ -517,7 +624,6 @@
 		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/HTML5.html",
 		"/Users/iceStone/Desktop/Shared/start",
 		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-04/README.md",
-		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-03/html5/HTML5.html",
 		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-03/code/07-svg-file.html",
 		"/Users/iceStone/Documents/WorkSpace/class/fed-01/2015-12-03/code/04-data-attributes.html",
@@ -560,38 +666,7 @@
 		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/note/note.manifest",
 		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/07-battery-status.html",
 		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/04-fullscreen-api.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/note/index.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/06-web-storage.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/05-application-cache.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/cache.manifest",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/cache.css",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/cache.js",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/temp.js",
-		"/Users/iceStone/hydra.txt",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/02-element-classlist.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/03-history-api.html",
-		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Snippets/qs.sublime-snippet",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/data.js",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/history-demo.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/01-new-selectors.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/10-svg.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/svg_tiger.svg",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/09-media-track.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/video-subtitles-cn.vtt",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5-bak/2/demo/02-多媒体.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/08-media-video.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/07-media-audio.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/05-new-form-types.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/03-aria-attributes.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/04-data-attributes.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/reveal/css/theme/itcast.css",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/style.css",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/html/progress-bar/index.html",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/reveal/plugin/notes/notes.js",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/reveal/lib/css/bootstrap.min.css",
-		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/HTML5-汪磊.html",
-		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Tint.sublime-settings",
-		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Terminality.sublime-settings"
+		"/Users/iceStone/Documents/WorkSpace/Itcast/courses/html5/demo/js-api/note/index.html"
 	],
 	"find":
 	{
@@ -609,6 +684,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			",",
+			"'),\n",
+			"1",
+			" *  - ",
+			"StyleSheet",
+			"React",
 			"    ",
 			"   ",
 			"1.5",
@@ -730,13 +811,7 @@
 			"h4",
 			"智能表单",
 			" class=\"fragment\"",
-			"label label",
-			"\"label",
-			"p",
-			"\"label",
-			"positive",
-			"assertive",
-			"calm"
+			"label label"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -792,6 +867,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 222.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -809,6 +888,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"welco",
+				"Weibo/app/Components/Welcome.js"
+			],
+			[
+				"stylesheet.",
+				"Weibo/node_modules/react-native/Libraries/StyleSheet/StyleSheet.js"
+			],
+			[
+				"react-native/",
+				"ZhiHuDaily-React-Native/LICENSE"
+			],
+			[
+				"react-na",
+				"Weibo/node_modules/react-native/packager/react-native-xcode.sh"
+			],
+			[
+				"react",
+				"node_modules/react-native/packager/react-native-xcode.sh"
+			],
 			[
 				"react-native",
 				"node_modules/react-native/packager/react-native-xcode.sh"
@@ -870,7 +969,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 234.0,
+	"side_bar_width": 306.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
